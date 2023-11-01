@@ -1,2 +1,2 @@
-# Projetos iniciadis em Selenium
+# Projetos iniciais em Selenium
 
